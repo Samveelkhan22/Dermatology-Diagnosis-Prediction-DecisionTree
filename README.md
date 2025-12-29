@@ -118,9 +118,6 @@ Hyperparameter tuning was performed using **GridSearchCV with 5-fold cross-valid
 
 ---
 
-
----
-
 ## 📜 Disclaimer
 This project is for **educational and research purposes only** and is not intended for clinical diagnosis or treatment.
 
@@ -129,5 +126,3 @@ This project is for **educational and research purposes only** and is not intend
 ## 👤 Author
 **Samveel Zaheer Khan**  
 
-
-## 📂 Project Structure
